@@ -27,53 +27,60 @@
          url('resources/font_0.woff');
 }
 @font-face{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Arial Bold'),
+         url('resources/font_1.woff');
+}
+@font-face{
     font-family: 'Consolas';
     font-style: normal;
     font-weight: 400;
     src: local('Consolas'),
-         url('resources/font_1.woff');
+         url('resources/font_2.woff');
 }
 @font-face{
     font-family: 'Consolas';
     font-style: normal;
     font-weight: 700;
     src: local('Consolas Bold'),
-         url('resources/font_2.woff');
+         url('resources/font_3.woff');
 }
 @font-face{
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
     src: local('Montserrat'),
-         url('resources/font_3.woff');
+         url('resources/font_4.woff');
 }
 @font-face{
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 700;
     src: local('Montserrat Bold'),
-         url('resources/font_4.woff');
+         url('resources/font_5.woff');
 }
 @font-face{
     font-family: 'Nunito';
     font-style: normal;
     font-weight: 400;
     src: local('Nunito'),
-         url('resources/font_5.woff');
+         url('resources/font_6.woff');
 }
 @font-face{
     font-family: 'Nunito';
     font-style: normal;
     font-weight: 700;
     src: local('Nunito Bold'),
-         url('resources/font_6.woff');
+         url('resources/font_7.woff');
 }
 @font-face{
     font-family: 'Tahoma';
     font-style: normal;
     font-weight: 400;
     src: local('Tahoma'),
-         url('resources/font_7.woff');
+         url('resources/font_8.woff');
 }
 
 
